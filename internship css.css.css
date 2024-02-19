@@ -1,0 +1,23 @@
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+
+    #stopwatch {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    #buttons {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    #lapTimes {
+      text-align: left;
+      margin-top: 20px;
+    }
+  </style>
